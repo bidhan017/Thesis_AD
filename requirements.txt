@@ -1,0 +1,7 @@
+numpy
+pandas
+gurobipy
+pydot
+automata-lib
+scikit-learn
+itertools
