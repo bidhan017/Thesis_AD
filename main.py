@@ -1,8 +1,7 @@
 
 from algorithms.model import train, test
 import itertools
-from distances import hamming_distance, levenshtein_distance
-#from pathlib import Path
+from .distances import hamming_distance, levenshtein_distance
 import os
 import argparse
 from .utils import parse_float_list
